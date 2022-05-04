@@ -26,7 +26,7 @@ namespace MyMVVMProject.Model
             repositoryData = new List<string>()
             {
                 "Hello",
-                "World"
+                "Boys"
             };
             return repositoryData;
         }
